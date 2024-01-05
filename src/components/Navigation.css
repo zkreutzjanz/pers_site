@@ -1,0 +1,18 @@
+.navigation {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.navigation a {
+  color: white;
+  text-decoration: none;
+  padding: 1rem 2rem;
+  font-size: 1rem;
+}
+
+.navigation a:hover {
+  text-decoration: underline;
+}

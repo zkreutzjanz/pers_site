@@ -1,0 +1,13 @@
+.header {
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem 2rem;
+}
+
+/* If you have a logo, you can add it here. For example: */
+.logo {
+  max-width: 150px; /* Adjust size as needed */
+}
